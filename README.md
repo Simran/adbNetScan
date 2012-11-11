@@ -9,6 +9,6 @@ adbNetScan is a command line binary coded in C# that scans your network for any 
 
 Image:
 
-![Screenshot](https://raw.github.com/Simran/adbNetScan/master/1.png)
+![Screenshot](https://raw.github.com/Simran/adbNetScan/master/images/1.png)
 
 --Simran
